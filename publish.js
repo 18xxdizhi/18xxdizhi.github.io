@@ -2,9 +2,9 @@ var emails = [
     '18xxdizhi@gmail.com'
 ];
 var newestUrls = [
-    'https://18XX01.com',
-	'https://18XX02.com',
-	'https://18XX03com'
+    'https://18xx01.com',
+	'https://18xx02.com',
+	'https://18xx03com'
 ];
 var otherUrls = [
     'https://18xx.me',
@@ -64,7 +64,7 @@ window.onload = function () {
     var logoElem = document.createElement('div');
     logoElem.setAttribute('class', 'brand');
     logoElem.setAttribute('id', 'logo');
-    logoElem.innerHTML = '九 <span>色</span><span class="flag">视频</span>'
+    logoElem.innerHTML = '18 <span>XX</span><span class="flag">视频</span>'
     mainElem.appendChild(logoElem);
 
     // newest urls
